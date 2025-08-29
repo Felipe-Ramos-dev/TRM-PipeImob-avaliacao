@@ -1,1 +1,1 @@
-# app/models/__init__.py
+# Apenas necessário para tornar o diretório um pacote
